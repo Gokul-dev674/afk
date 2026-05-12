@@ -9,7 +9,7 @@
     "ip": "smrajym.aternos.me",
     "port": 35152,
     "version": "",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
