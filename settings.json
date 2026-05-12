@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kokanee.aternos.host",
+    "ip": "smrajym.aternos.me:35152",
     "port": 35152,
     "version": "",
     "try-creative": false
